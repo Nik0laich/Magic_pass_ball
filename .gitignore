@@ -1,0 +1,8 @@
+.env
+
+
+.mypy_cache/
+.vscode/
+.idea/
+venv/
+__pycache__/
